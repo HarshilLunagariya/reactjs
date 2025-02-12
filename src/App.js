@@ -5,12 +5,12 @@ import About from './About';
 
 function App() {
 
-  let x=prompt("enter text:")
+  
 
   return (
     <div className='nav'>
       
-      <Home text={x}></Home>
+      
       <About></About>
 
     </div>
